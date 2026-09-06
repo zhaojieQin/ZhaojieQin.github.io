@@ -1,5 +1,30 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Asymmetric Response of Land Precipitation Variability Under Carbon Dioxide Removal",
+    "doi": "10.1029/2026jd047086",
+    "url": "https://doi.org/10.1029/2026jd047086",
+    "abstract": "Abstract Precipitation variability describes fluctuations between wet and dry conditions and plays an important role in shaping hydrological extremes and their societal impacts. Using idealized carbon dioxide removal experiments from CMIP6 models, we assess how precipitation variability responds to symmetric CO 2 ramp‐up and ramp‐down forcing across time scales from day‐to‐day to intraseasonal. Precipitation variability strengthens with increasing CO 2 and remains stronger during the ramp‐down phase than during the ramp‐up phase, even at comparable CO 2 concentrations. This asymmetry is evident across time scales and is particularly pronounced over several densely populated land regions, including North America, Europe, South Asia and East Asia. Diagnostics based on a simplified moisture‐b…",
+    "authors": "Ruyu Gan, Kaiming Hu, Qi Liu, Gang Huang et al.",
+    "published": "2026-09-05",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Evaluation of Riming in the P3‐2ice Microphysics Scheme: A Case Study of Cold‐Air Outbreak Snowfall in Eastern China",
+    "doi": "10.1029/2026jd046402",
+    "url": "https://doi.org/10.1029/2026jd046402",
+    "abstract": "Abstract Using the multi‐frequency radar suite, ground‐based observations, and the Weather Research and Forecasting (WRF) model with the Predicted Particle Properties microphysics scheme with the version of two‐ice category (P3‐2ice), we study the characteristics of a cold‐air outbreak (CAO) snowfall event on 6–7 December 2024. The cloud system is shallow convection, with the microphysical characteristics differing between the first and second snowfall periods. The WRF model reproduces the synoptic‐scale weather system and mesoscale structure well, but underestimates the event‐averaged snow rate and rime mass fraction by approximately 52% and 24%, respectively. Within the riming process, the collection of cloud water by ice is the dominant pathway. However, the fixed collection efficiency …",
+    "authors": "Zhizhi Qin, Hepeng Zheng, Yun Zhang, Chengfang Yang et al.",
+    "published": "2026-09-05",
+    "keywords_matched": [
+      "WRF",
+      "weather research and forecasting"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Critical deformation state of binary droplet breakup in turbulence",
     "doi": "10.1017/jfm.2026.11953",
@@ -6139,30 +6164,6 @@
     "keywords_matched": [
       "turbulence",
       "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Taylor–Aris dispersion in shear-rate-dependent fluid flows",
-    "doi": "10.1017/jfm.2026.11682",
-    "url": "https://doi.org/10.1017/jfm.2026.11682",
-    "abstract": "The spread of a pulse of solute in a pressure-driven channel flow is well described for a wide range of Newtonian flows for which the viscosity and diffusivity are constants. Over many decades, various extensions have been suggested for the dispersion in pressure-driven non-Newtonian channel flows. While many theoretical studies have examined the effect of shear-rate-dependent viscosity on dispersion for a variety of non-Newtonian constitutive models, the solute diffusivity has invariably been treated as a constant. This assumption, however, is in contrast to the expectation that the diffusivity of a colloidal particle is inversely related to the viscosity, e.g. recall the Stokes–Einstein relation. We account for this coupling of transport coefficients – viscosity and diffusivity – by assu…",
-    "authors": "Evgeniy Boyko, Howard A. Stone",
-    "published": "2026-06-15",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Disentangling discrete and continuous spectra of tidally forced internal waves in shear flow",
-    "doi": "10.1017/jfm.2026.11580",
-    "url": "https://doi.org/10.1017/jfm.2026.11580",
-    "abstract": "Generation of internal waves driven by barotropic tides over seafloor topography is a central issue in developing mixing and wave drag parametrisations for ocean circulation models. Traditional analytical approaches estimate the energy conversion rate from barotropic tides to internal waves using a modal expansion of the wave field. However, this framework becomes inadequate if a background shear flow is present, as singular solutions associated with critical levels emerge. To uncover the distinct roles of regular eigenmodes and singular solutions in tidal energy conversion, this study analytically investigates wave generation over a localised small topography in the presence of shear flow without Coriolis force. Applying horizontal Fourier and temporal Laplace transforms, we identify regi…",
-    "authors": "Yohei Onuki, Antoine Venaille",
-    "published": "2026-06-15",
-    "keywords_matched": [
-      "tidal"
     ]
   }
 ]
