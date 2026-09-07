@@ -1,5 +1,41 @@
 [
   {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Energetics of a turbulent impinging jet with passive scalar transport",
+    "doi": "10.1017/jfm.2026.11989",
+    "url": "https://doi.org/10.1017/jfm.2026.11989",
+    "abstract": "The heat transfer problem of a turbulent cold jet impinging orthogonally on a warm, constant-temperature, plate is investigated using direct numerical simulation. The jet is generated with a fully developed turbulent pipe flow at italic Re equals upper U Subscript b Baseline upper D divided by nu equals 5300 Re = U b D / ν = 5300 ${\\textit{Re}}=U_b D / \\nu=5300$ ( upper U Subscript b U b $U_b$ is the mean bulk velocity, upper D D $D$ is the pipe diameter, and nu ν $\\nu$ is the kinematic viscosity of the fluid) and impinges on a solid surface located at a distance of two pipe diameters from the nozzle exit section. A confinement plate, at thermal equilibrium with the issuing jet, is located at the same height as the nozzle. The fluid is assumed to have a unit Prandtl number and the temperat…",
+    "authors": "Francesco Secchi, Davide Gatti, Bettina Frohnapfel",
+    "published": "2026-09-07",
+    "keywords_matched": [
+      "heat transfer"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Development and testing of ensemble-variational data assimilation capabilities for radar data within JEDI coupled with FV3-LAM model",
+    "doi": "10.5194/gmd-19-8213-2026",
+    "url": "https://doi.org/10.5194/gmd-19-8213-2026",
+    "abstract": "Abstract. This study presents the first implementation and evaluation of radar reflectivity data assimilation capabilities within the ensemble three-dimensional variational (En3DVar) data assimilation (DA) system of the Joint Effort for Data assimilation Integration (JEDI) framework. Building on our earlier works that assimilated reflectivity in JEDI LETKF and in GSI En3DVar, this study focuses on the JEDI En3DVar algorithm when coupled with the FV3-LAM model using the Thompson microphysics scheme. The radar reflectivity observation operator is refined by modifying the snow and graupel reflectivity formulations to improve consistency with Thompson microphysics. The new operator notably improves reflectivity analyses at the upper levels and reduces root-mean-square innovations for both refl…",
+    "authors": "Jun Park, Chengsi Liu, Ming Xue",
+    "published": "2026-09-07",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Measurement of VOCs Emission From Freshwater Algae by Vocus PTR‐ToF‐MS",
+    "doi": "10.1029/2026jd047457",
+    "url": "https://doi.org/10.1029/2026jd047457",
+    "abstract": "Abstract Volatile organic compounds (VOCs) are receiving more attention for their potential to form ozone and secondary organic aerosol (SOA). Considerable amounts of VOCs are released from freshwater algae, and their chemical compositions and release rates have not been well understood. In this work, chemical compositions and release rates of VOCs emitted from a dominant algae species ( Microcystis aeruginosa ) in freshwater phytoplankton community were investigated under various cultivation conditions (i.e., BG11 medium, BG11 + extra nitrogen nutrient, BG11 + extra phosphorus nutrient, and low pH). 238 VOC species were identified from the emission of M. aeruginosa , among which 40 were hydrocarbons (elemental composition: CH), 81 were oxygenated‐VOCs (elemental composition: CHO), 61 were…",
+    "authors": "Qiaodi Lu, Lei Yao, Shuwen Yan, Chuang Li et al.",
+    "published": "2026-09-06",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Geophysical Research: Atmospheres",
     "title": "Asymmetric Response of Land Precipitation Variability Under Carbon Dioxide Removal",
     "doi": "10.1029/2026jd047086",
@@ -6126,43 +6162,6 @@
     "authors": "Xiaotong Huang, Puxi Li, Hongyong Yu, Xuelin Hu et al.",
     "published": "2026-06-16",
     "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Multi‐LiDAR Observations of Coastal Atmospheric Duct Evolution in Hampton Roads",
-    "doi": "10.1029/2026jd046361",
-    "url": "https://doi.org/10.1029/2026jd046361",
-    "abstract": "Abstract To better understand the influence of atmospheric ducts on radio frequency (RF) operations, continuous high‐resolution observations of temperature and water vapor are essential. Hampton University's (HU) 48‐inch Raman‐Mie LiDAR provides such measurements through rotational and vibrational Raman techniques, enabling detailed monitoring of refractivity gradients that drive duct formation. In this study, we analyze a strong coastal ducting event from the evening of 22 May to the morning of 23 May 2019 over Hampton, Virginia, using a multi‐LiDAR data set that combines Raman‐Mie thermodynamic profiles, US Army Combat Capabilities Development Command (DEVCOM)‐Army Research Laboratory (ARL) Doppler LiDAR wind fields, and NASA Langley micropulse LiDAR (MPL) aerosol and cloud observations.…",
-    "authors": "Jia Su, Melvin A. Felton, Ruben Delgado, David A. Ligon et al.",
-    "published": "2026-06-16",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Tree‐Ring Evidence for Solar Radiation Modulation of Sea Surface Temperature–Western Pacific Subtropical High Relationship",
-    "doi": "10.1029/2025jd045960",
-    "url": "https://doi.org/10.1029/2025jd045960",
-    "abstract": "Abstract The western Pacific subtropical high (WPSH) profoundly influences climate changes and disaster frequencies in the densely populated East Asia. Yet, the mechanisms, drivers, and future changes of WPSH remain unclear. Here the longest annual resolution reconstruction of the summer WPSH intensity is presented using tree‐ring width and stable isotope from the southeastern China. WPSH displays intensified strength and variability since the 1950s, alongside increased extreme events. Tropical sea surface temperature (SST) from the Pacific, Atlantic and Indian Oceans influences WPSH intensity with significant spatial and temporal heterogeneity over the past 390 years. The eastern Pacific tropical SST has the strongest impact, though their relationship is unstable on multi‐decadal scales. …",
-    "authors": "Changfeng Sun, Yu Liu, Congxi Fang, Lu Wang et al.",
-    "published": "2026-06-16",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Shear-free, inhomogeneous turbulence in a stably stratified fluid",
-    "doi": "10.1017/jfm.2026.11627",
-    "url": "https://doi.org/10.1017/jfm.2026.11627",
-    "abstract": "High-resolution large eddy simulations are conducted of locally forced, shear-free turbulence in the presence of an initially sharp density interface. The simulations are reminiscent of oscillating grid turbulence experiments used to isolate the effect of turbulent diffusion and entrainment from background shear. By simulating such a flow we avoid common challenges of the experiments such as secondary-flow contamination due to sidewall effects and the inevitable interaction of the stratifying agent and forcing region. To address the latter concern, we add a heating term (potential energy sink) to the governing equations in the forcing layer, thereby preventing a heat flux through the source region. This modification sets up a continuous stratification in the mixed layer that is often assum…",
-    "authors": "Ryan Hass, Sanjiva Lele",
-    "published": "2026-06-16",
-    "keywords_matched": [
-      "turbulence",
       "ABL"
     ]
   }
