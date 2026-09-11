@@ -13,6 +13,91 @@
   },
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Turbulent flow in a square duct at extreme Reynolds number",
+    "doi": "10.1017/jfm.2026.11947",
+    "url": "https://doi.org/10.1017/jfm.2026.11947",
+    "abstract": "We investigate pressure-driven turbulent flow in a square duct using wall-modelled large-eddy simulations (WMLES) of the Navier–Stokes equations. An equilibrium wall model based on the logarithmic law is employed, yielding results in close agreement with direct numerical simulations (DNS) over the range of overlapping Reynolds numbers. In particular, both the structure and intensity of the secondary motions are well captured, providing confidence in the ability of WMLES to extend to Reynolds numbers beyond the present reach of DNS, and to offer insight into the asymptotic state of turbulence. This expectation is reinforced by the good agreement with available experimental data at higher Reynolds numbers. The WMLES results confirm the validity of the classical Prandtl friction law, with the…",
+    "authors": "Federico Verolini, Maochao Xiao, Sergio Pirozzoli",
+    "published": "2026-09-10",
+    "keywords_matched": [
+      "turbulence",
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Vortex ring–cylinder interactions: regimes, reconnection, and the role of topology",
+    "doi": "10.1017/jfm.2026.11940",
+    "url": "https://doi.org/10.1017/jfm.2026.11940",
+    "abstract": "We investigate the interaction between vortex rings and cylindrical obstacles using direct numerical simulations across a wide range of geometric and dynamical parameters. The flow is characterised in terms of the diameter ratio between ring and object upper T Subscript upper D Baseline equals d divided by upper D T D = d / D $T_D = d/D$ , the Reynolds number based on circulation italic Re Subscript upper Gamma Re Γ $\\textit{Re}_\\varGamma$ , and the slenderness ratio upper Lamda Λ $\\varLambda$ . By systematically varying upper T Subscript upper D T D $T_D$ and italic Re Subscript upper Gamma Re Γ $\\textit{Re}_\\varGamma$ , we identify three distinct interaction regimes: the wire, cutting and wall regimes. In the wire regime ( upper T Subscript upper D Baseline less than or equivalent to 0.0…",
+    "authors": "Andrés Herrera-Gómez, Juan Ángel Tendero-Ventanas, Rodolfo Ostilla-Mónico",
+    "published": "2026-09-10",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "On the Poisson-source basis of logarithmic wall-pressure-variance growth",
+    "doi": "10.1017/jfm.2026.12040",
+    "url": "https://doi.org/10.1017/jfm.2026.12040",
+    "abstract": "In high-Reynolds-number wall-bounded flows, the inner-scaled wall-pressure variance is often represented as a logarithmic increase with frictional Reynolds number. We consider the two sources of the incompressible pressure–Poisson equation: a linear (rapid) term linked to mean shear and a nonlinear (slow) term composed of quadratic velocity fluctuations. This paper establishes a link between the sources and the coefficients in a logarithmic inner-scaled variance representation. To leading order we posit that the linear source provides a Reynolds-number-independent offset, while the nonlinear source contributes the logarithmic coefficient. The illustrative dataset is direct numerical simulation (DNS) at frictional Reynolds number delta Superscript plus Baseline almost equals 550 δ + ≈ 550 $…",
+    "authors": "Jonathan Massey, Joseph Klewicki, Beverley McKeon",
+    "published": "2026-09-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "The Impact of Increased Vertical Resolution on Northern Hemispheric Wintertime Climatology, QBO and Teleconnections in the GISS E2.2 Model",
+    "doi": "10.1029/2025jd044454",
+    "url": "https://doi.org/10.1029/2025jd044454",
+    "abstract": "Abstract The Quasi‐Biennial Oscillation (QBO) is the leading mode of interannual variability in the equatorial stratosphere, with important teleconnections to phenomena such as the polar vortex and subtropical jet, and an important source of subseasonal‐to‐seasonal predictability. However, most climate models struggle with its representation, particularly in the lower stratosphere, with an associated degradation in its teleconnections. To improve this, versions of the GISS E2.2 high‐top model with enhanced vertical resolution in different regions of the upper troposphere and lower stratosphere (UTLS) were run in a fully coupled atmosphere‐ocean CMIP6 preindustrial control configuration, and their resulting climatologies, QBO and associated teleconnections analyzed and compared to MERRA2 re…",
+    "authors": "N. E. Trencham, C. Orbe, J. Jonas, D. Rind",
+    "published": "2026-09-10",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Issue Information",
+    "doi": "10.1029/jgrd.70931",
+    "url": "https://doi.org/10.1029/jgrd.70931",
+    "abstract": "No abstract is available for this article.",
+    "authors": "",
+    "published": "2026-09-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Integrating ozone–vegetation damage schemes into SSiB4/TRIFFID: evaluation of six parameterizations and refinement of  ozone decay process across plant functional types",
+    "doi": "10.5194/gmd-19-8447-2026",
+    "url": "https://doi.org/10.5194/gmd-19-8447-2026",
+    "abstract": "Tropospheric ozone (O 3 ) is a major air pollutant that threatens vegetation productivity and terrestrial ecosystems. Quantifying O 3 -induced impacts on photosynthesis and stomatal conductance is crucial for understanding biosphere–atmosphere interactions at regional and global scales. In recent decades, several parameterization schemes have been developed to describe the photosynthetic and stomatal responses to O 3 exposure. However, substantial discrepancies remain when applying different schemes in various model frameworks. In this study, we integrated six flux-based O 3 –vegetation damage parameterizations into SSiB4/TRIFFID, a well-established dynamic global vegetation model, to assess the impacts of O 3 pollution on vegetation photosynthesis in China during the 2010s. Our results in…",
+    "authors": "Lingfeng Li, Bo Qiu, Siwen Zhao, Xin Miao et al.",
+    "published": "2026-09-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Geoscientific Model Development",
+    "title": "Development of a high-resolution coupled SHiELD-MOM6-LM4 model – Part 2: Model overview, coupling technique, and evaluation of hydrological extremes during Hurricane Helene",
+    "doi": "10.5194/gmd-19-8427-2026",
+    "url": "https://doi.org/10.5194/gmd-19-8427-2026",
+    "abstract": "This work describes the implementation strategy and technical challenges involved in integrating the Geophysical Fluid Dynamics Laboratory (GFDL)’s Land Model (LM4) with dynamic subgrid tiling capabilities within the atmospheric model, System for High-resolution modeling for Earth-to-Local Domains (SHiELD), capable of kilometer-scale global simulations. A key challenge addressed in this effort is coupling LM4, which was designed for implicit surface flux coupling, with SHiELD’s explicit physics solver. We achieve this through a refactoring of the atmospheric physics suite and code drivers, enabling implicit land-atmosphere coupling of heat and moisture within the well-established FMS coupler infrastructure. The resulting flexible architecture supports multiple model configurations from a s…",
+    "authors": "Joseph Mouallem, Sergey Malyshev, Zhihong Tan, Elena Shevliakova et al.",
+    "published": "2026-09-10",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "The effect of Schmidt number on space–time correlation of scalar fluctuations in wall-bounded shear flow",
     "doi": "10.1017/jfm.2026.12021",
     "url": "https://doi.org/10.1017/jfm.2026.12021",
@@ -6077,91 +6162,6 @@
     "keywords_matched": [
       "lattice boltzmann method",
       "lattice boltzmann"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Spiral waves in water",
-    "doi": "10.1017/jfm.2026.11706",
-    "url": "https://doi.org/10.1017/jfm.2026.11706",
-    "abstract": "Spiral waves are found in linear and weakly nonlinear irrotational water-wave equations. These unsteady spiral waves evolve from suitable initial conditions; they are not induced by external forcing. In the linear case, a long-time asymptotic result is obtained via the method of stationary phase. The asymptotic approximation is found to be in good agreement with the exact solution and reveals hyperbolic spiral structure. Numerical simulations show that these spiral waves persist in the presence of weak nonlinearity. While spiral waves are frequently found in excitable media governed by reaction–diffusion systems, they comprise a new class of interesting two-space one-time dimensional phenomena in fundamental linear and nonlinear dispersive wave systems.",
-    "authors": "Mark Jay Ablowitz, Justin T. Cole, Sean David Nixon",
-    "published": "2026-06-23",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Modeling the Distribution, Impacts, and Mitigation of Anthropogenic Heat in Los Angeles",
-    "doi": "10.1029/2026jd046326",
-    "url": "https://doi.org/10.1029/2026jd046326",
-    "abstract": "Abstract Anthropogenic heat emissions from human energy consumption contribute to the urban heat island (UHI) effect, yet their spatiotemporal distributions and impacts remain uncertain. In this study, we develop a 100 m resolution, hourly anthropogenic heat flux (AHF) data set for Los Angeles County and use the Weather Research and Forecasting model to quantify the meteorological impacts of AHF and the heat mitigation potential of electrification and energy efficiency measures. Annual mean AHF across the county was 2.54 W m −2 , increasing to 9.65 W m −2 over urban areas, with substantial variability across both space and time. AHF increased urban mean 2 m air temperature by approximately ∼0.3°C and canopy air temperature by more than 1°C, with localized canopy warming exceeding 4°C in ce…",
-    "authors": "Joseph Ko, Hao Hu, Yun Li, Hannah Schlaerth et al.",
-    "published": "2026-06-23",
-    "keywords_matched": [
-      "weather research and forecasting"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "The path to FAIR research models: lessons learned",
-    "doi": "10.5194/gmd-19-5381-2026",
-    "url": "https://doi.org/10.5194/gmd-19-5381-2026",
-    "abstract": "Abstract. Numerical modeling of Earth surface processes emerged as an important scientific tool in the late 1960s to mid-1970s, driven by the development of finite element methods in computer science. These advancements, initially applied in civil engineering, enabled scientists to simulate complex geological phenomena. At that time, models were often only described in publications, access was limited to researchers with direct connections to the developers, and the code was rarely documented for reuse, limiting their application beyond the original research context. The FAIR principles (Findability, Accessibility, Interoperability, and Reusability) as applied to data began to take shape in the 21st century with the rise of open science, digital repositories, and standardized data sharing …",
-    "authors": "Albert J. Kettner, Leslie Hsu, Brandon S. Serna",
-    "published": "2026-06-23",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Geoscientific Model Development",
-    "title": "Interpolating station quantile biases for tropospheric ozone  MDA8 bias correction",
-    "doi": "10.5194/gmd-19-5401-2026",
-    "url": "https://doi.org/10.5194/gmd-19-5401-2026",
-    "abstract": "Abstract. Chemistry transport models (CTMs) consistently exhibit systematic errors in ozone concentrations, which can be partly compensated by bias correction. There are several bias correction strategies suitable for using station data, but they are likely to introduce statistical artifacts when applied at high resolution. We propose a new bias correction strategy based on parametric interpolation of quantile biases (PIQB) suitable for high resolution simulations, which is designed to avoid such artifacts. In this study, we evaluate and compare the performance of our strategy with other older strategies with a focus on ambient maximum daily 8 h average ozone concentrations (MDA8). Our experimental setup consisted of two simulations from the CTMs WRF-Chem and CAMx at horizontal resolution …",
-    "authors": "Jan Peiker, Jan Karlický, Peter Huszár",
-    "published": "2026-06-23",
-    "keywords_matched": [
-      "WRF",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Collective versus individual dispersion dynamics: vortex-ring modification across suspensions and polymer solutions",
-    "doi": "10.1017/jfm.2026.11572",
-    "url": "https://doi.org/10.1017/jfm.2026.11572",
-    "abstract": "We show that vortex rings forming in suspensions and polymer solutions exhibit similar behaviour in terms of vortex-core growth, vorticity redistribution and circulation when compared at loadings (i.e. volume fraction in suspensions and concentration in polymer solutions) normalised by their respective critical loading. This suggests that the collective, loading-driven dynamics of dispersed particles or polymer chains can outweigh the unique characteristics of the dispersion and govern certain aspects of the flow response. Using a confined vortex ring as a canonical structure, we synthesise experimental data spanning dilute to concentrated regimes for both media, with our analysis indicating that similar collective dynamics exist in both systems. Specifically, the vortex-core growth rate r…",
-    "authors": "Giuseppe A. Rosi, Moira R. Barnes, David E. Rival",
-    "published": "2026-06-22",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Second leading-edge vortex enhancement: a novel vortex-interaction mechanism for stall flutter suppression",
-    "doi": "10.1017/jfm.2026.11576",
-    "url": "https://doi.org/10.1017/jfm.2026.11576",
-    "abstract": "Stall flutter is suppressed on a NACA0012 airfoil at a low Reynolds number ( Re equals = $=$ 1000–5000) through a counter-intuitive strategy: targeted enhancement of the second leading-edge vortex (sLEV) via phase-optimised surface morphing, in contrast to the conventional paradigm of suppressing vortices. Two distinct flow topologies are identified: (I) boundary-layer-eruption-induced leading-edge vortex (LEV) shedding at large amplitudes ( upper A Subscript alpha A α $A_\\alpha$ ≥ 10°), accompanied by sLEV formation, and (II) bluff-body-type shedding at small amplitudes ( upper A Subscript alpha A α $A_\\alpha$ ≤ 5°) without sLEV. A new circulation scaling is introduced to identify topology I, which drives severe structural oscillations. Flow-structure analysis reveals a novel sLEV–trailin…",
-    "authors": "Yingjie Xia, Guangjing Huang, Yuting Dai, Chao Yang et al.",
-    "published": "2026-06-22",
-    "keywords_matched": [
-      "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Dry and cohesive granular flows in a rotating drum: flow dynamics and scaling behaviours",
-    "doi": "10.1017/jfm.2026.11716",
-    "url": "https://doi.org/10.1017/jfm.2026.11716",
-    "abstract": "Understanding the rheology of granular surface flows remains a significant challenge, particularly when inertial and cohesive interactions occur between particles to trigger complex regime transitions. This study investigates the steady flow dynamics of dry and cohesive granular materials through systematic rotating drum experiments, focusing on the effects of rotation speed, drum-to-particle size ratio and cohesion level. Scaling laws were further established to capture the combined effects of these factors and provide a unified description of flow behaviour across both dry and cohesive regimes. Results show that, for dry granular flows, both the normalised flowing layer thickness delta 0 divided by d δ 0 / d $\\delta_0/d$ where delta 0 δ 0 $\\delta_0$ is flowing layer thickness and d d $d$…",
-    "authors": "Zhongrong Wang, Annan Zhou, Teng Man, Wantao Ding et al.",
-    "published": "2026-06-22",
-    "keywords_matched": [
-      "ABL"
     ]
   }
 ]
