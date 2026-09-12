@@ -1,6 +1,67 @@
 [
   {
     "journal": "Journal of Fluid Mechanics",
+    "title": "Interplay between circulatory and non-circulatory effects during interaction of counter-translating lifting bodies",
+    "doi": "10.1017/jfm.2026.11983",
+    "url": "https://doi.org/10.1017/jfm.2026.11983",
+    "abstract": "Aerodynamic interactions between closely spaced lifting bodies are fundamental to many natural and engineered systems, including flapping insect wings, multi-rotor aerial vehicles and vertical-axis wind turbines. During operation, these systems undergo periodic counter-translating interactions (cross-over) in which adjacent wings or blades translate past each other in close proximity, producing strong unsteady coupling and transient load excursions. This study investigates the canonical form of this problem: two counter-translating lifting bodies in a hydrodynamic towing facility to isolate the fluid mechanics of a single cross-over event. Time-resolved load and flow-field measurements reveal that the unsteady forces arise from a combination of induced effects and transient pressure fields…",
+    "authors": "Lokesh Silwal, Vrishank Raghav",
+    "published": "2026-09-11",
+    "keywords_matched": [
+      "wind turbine",
+      "wind turbines"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Multi-plane turbulence structures and instantaneous velocity extremes in high-Reynolds-number deep cavity flow",
+    "doi": "10.1017/jfm.2026.12024",
+    "url": "https://doi.org/10.1017/jfm.2026.12024",
+    "abstract": "Systematic experimental data on local extreme velocities and unsteady features in high-Reynolds-number deep-cavity flows remain limited. In this study, two-component particle image velocimetry (PIV) measurements were performed to investigate the flow characteristics of an incoming-flow-driven deep cavity with upper L divided by upper D L / D $L/D$ = 1 divided by 3 1 / 3 $1/3$ at Re = 2.55 × 10 5 . Three streamwise x y x y $xy$ planes ( z divided by upper W z / W $z/W$ = 0.10, 0.25, 0.50) and three spanwise yz planes ( x divided by upper L x / L $x/L$ = 0.10, 0.25, 0.50) were measured systematically. The time-averaged velocity, root mean square velocity fluctuations, in-plane turbulent kinetic energy (TKE), instantaneous maximum velocity, and higher-order statistics including skewness and k…",
+    "authors": "Ping Wang, Pengyu Ren, Yichen Yang, Feifei Lu et al.",
+    "published": "2026-09-11",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Surface heating effects on attachment-line transition and relaminarisation",
+    "doi": "10.1017/jfm.2026.11949",
+    "url": "https://doi.org/10.1017/jfm.2026.11949",
+    "abstract": "Wall-resolved large-eddy simulations are used to investigate the effects of elevated surface temperature on the leading edge of a swept wing. Earlier stability analyses demonstrate a strong destabilising effect resulting from surface heating, but do not reveal the ultimate effects on transition and relaminarisation. The current results support the findings from stability analysis with elevated surface temperatures, but show a more complex dependency between instability and turbulence than is observed for adiabatic conditions. For attachment-line Reynolds numbers above the adiabatic relaminarisation threshold, instability leads to fully turbulent flow. At Reynolds numbers below the adiabatic relaminarisation threshold, instability leads to finite-amplitude equilibrium states and intermitten…",
+    "authors": "K.A. Goc, J.D. Crouch",
+    "published": "2026-09-11",
+    "keywords_matched": [
+      "turbulence"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
+    "title": "Early onset of secondary shear instability in Kelvin–Helmholtz braids at high Reynolds number",
+    "doi": "10.1017/jfm.2026.12012",
+    "url": "https://doi.org/10.1017/jfm.2026.12012",
+    "abstract": "We study the onset of two-dimensional secondary shear instability (SSI) in the braid regions connecting primary Kelvin–Helmholtz billows in stratified shear flows. While strain induced by the billows stabilises the braids, it also compresses their tilted isopycnals, enhancing baroclinic shear that enables rapid perturbation growth. By modifying the classical analysis of Corcos &amp; Sherman (1976 J. Fluid Mech. 73, 241–264) in braid-aligned coordinates and adding an instability criterion based on the ratio of strain rate to shear, we develop an inviscid, time-dependent model for the braid evolution and the onset of SSI. We show that the criterion for instability can be achieved significantly earlier than the saturation of the primary billow at sufficiently high initial Richardson number it…",
+    "authors": "Emma R. Bouckley, Sam F. Lewin, Adrien Lefauve",
+    "published": "2026-09-11",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Contrasting Skills of S2S Models in Predicting Downward Propagation of Weak and Strong Polar Vortex Events and Impacts on Surface Temperature",
+    "doi": "10.1029/2025jd046266",
+    "url": "https://doi.org/10.1029/2025jd046266",
+    "abstract": "Abstract Variations in the stratospheric polar vortex (SPV) intensity can influence large‐scale tropospheric circulation and surface weather through downward propagation of Northern Annular Mode (NAM) signals, offering a source of subseasonal‐to‐seasonal (S2S) predictability. This study evaluates the skill of S2S models in predicting the downward propagating (DP) characteristics of weak and strong stratospheric polar vortex (SPV) events, respectively, and their associated 2m‐temperature ( T 2m ) anomalies. Using ERA5 reanalysis and real‐time forecasts from S2S models during winter 2014–2024, SPV events are identified based on the 10 hPa NAM and classified into DP and non‐downward‐propagating (NDP) types according to their vertical propagation to 500 hPa. Results reveal that models capture …",
+    "authors": "Donghan Wang, Yueyue Yu, Chaim I. Garfinkel, Jian Rao",
+    "published": "2026-09-11",
+    "keywords_matched": [
+      "vortex"
+    ]
+  },
+  {
+    "journal": "Journal of Fluid Mechanics",
     "title": "Topological reconnection of vortex bubble rings in two-phase flow",
     "doi": "10.1017/jfm.2026.12006",
     "url": "https://doi.org/10.1017/jfm.2026.12006",
@@ -165,7 +226,7 @@
     "title": "A semi-Lagrangian advection scheme in Elmer (v26.1): benchmarking against discontinuous Galerkin and application to ice-damage transport",
     "doi": "10.5194/gmd-19-8269-2026",
     "url": "https://doi.org/10.5194/gmd-19-8269-2026",
-    "abstract": "Abstract. Transport processes are of great importance in geophysical applications, including atmospheric, oceanic, and ice flow dynamics. An Eulerian view is commonly adopted in models representing fluid dynamics. In such a framework, transport processes are accounted for by prescribing advection terms within the partial differential equations (PDEs) of the model. Yet, advection terms are prone to cause instabilities in the numerical solution of these equations, notably when using the finite element method with a standard Galerkin approach. Various methods have been developed to overcome these instabilities, but often at the price of spurious artificial diffusion. To avoid such unwanted numerical smoothing, a commonly used technique is the discontinuous Galerkin method, which allows for di…",
+    "abstract": "Transport processes are of great importance in geophysical applications, including atmospheric, oceanic, and ice flow dynamics. An Eulerian view is commonly adopted in models representing fluid dynamics. In such a framework, transport processes are accounted for by prescribing advection terms within the partial differential equations (PDEs) of the model. Yet, advection terms are prone to cause instabilities in the numerical solution of these equations, notably when using the finite element method with a standard Galerkin approach. Various methods have been developed to overcome these instabilities, but often at the price of spurious artificial diffusion. To avoid such unwanted numerical smoothing, a commonly used technique is the discontinuous Galerkin method, which allows for discontinuou…",
     "authors": "Cyrille Mosbeux, Peter Råback, Adrien Gilbert, Julien Brondex et al.",
     "published": "2026-09-08",
     "keywords_matched": [
@@ -6100,68 +6161,6 @@
     "keywords_matched": [
       "ABL",
       "vortex"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "The Impact of Enhanced Vertical Resolution on Seasonal Prediction Skill of the Quasi‐Biennial Oscillation and Its Teleconnections in CESM2: A New Community Hindcast Dataset",
-    "doi": "10.1029/2025jd046148",
-    "url": "https://doi.org/10.1029/2025jd046148",
-    "abstract": "Abstract Skillful seasonal forecasts of impactful climate events are in high demand yet remain a major challenge. Skill on seasonal timescales will arise from prediction of slowly varying predictable modes and their influence on the weather. The stratosphere provides one such mode, if it can be predicted, and if it exerts a sufficient influence on the troposphere below. Here we introduce a new seasonal hindcast data set with the Community Earth System Model version 2 (CESM2) with a raised atmospheric model lid and enhanced vertical resolution and compare with a companion hindcast set with CESM2's default vertical resolution. The enhanced vertical resolution enables considerably higher prediction skill of the Quasi‐biennial Oscillation (QBO). We further use this data set to probe for associ…",
-    "authors": "Isla R. Simpson, Michael J. DeFlorio, Jiabao Wang, Nora R. Mascioli et al.",
-    "published": "2026-06-24",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Accelerating Regime Restructuring of Ozone Sensitivity From VOC‐Limited to Transitional With Heatwave Intensification",
-    "doi": "10.1029/2026jd046849",
-    "url": "https://doi.org/10.1029/2026jd046849",
-    "abstract": "Abstract In eastern China, heatwaves increasingly co‐occur with extreme ozone pollution, posing substantial public health risks. However, the spatiotemporal heterogeneity of heatwave levels and their nonlinear modulation of photochemical mechanisms remain insufficiently resolved. Integrating explainable machine learning with WRF–CAMx simulations, this study quantifies key drivers of ozone variability, characterizes nationwide heatwave evolution, and evaluates how heatwave levels affect surface ozone formation and precursor control efficiency in the Yangtze River Delta (YRD). Machine learning results show that meteorological factors explain over 70% of daytime ozone variability, with temperature, solar radiation, and relative humidity exerting dominant influences. A threshold‐like temperatu…",
-    "authors": "Hanyu Zhang, Wantong Guo, Jungang Wang, Haozhen Du et al.",
-    "published": "2026-06-24",
-    "keywords_matched": [
-      "WRF",
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "MSWD: A Hybrid Machine‐Learning Framework for Slant Wet Delay Modeling",
-    "doi": "10.1029/2026jd046410",
-    "url": "https://doi.org/10.1029/2026jd046410",
-    "abstract": "Abstract Space geodetic techniques such as Global Navigation Satellite Systems (GNSS) and Very Long Baseline Interferometry (VLBI) are limited by direction‐dependent tropospheric delays, with slant wet delay (SWD) being the most variable component and a major error source. Accurate SWD priors can accelerate convergence, stabilize parameter estimation, and improve positioning and atmospheric retrievals. Existing global empirical models, such as the state‐of‐the‐art GPT3 model, reconstruct SWD through a fixed pipeline of zenith wet delay (ZWD), wet mapping function (MFw), and wet horizontal gradients. They rely on simplified parameterizations and fixed coefficient tables, and because re‐estimating the full set of parameters is burdensome, products are rarely updated to reflect current condit…",
-    "authors": "Zhenyi Zhang, Benedikt Soja",
-    "published": "2026-06-24",
-    "keywords_matched": [
-      "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Prediction of bypass transition from wall measurements",
-    "doi": "10.1017/jfm.2026.11594",
-    "url": "https://doi.org/10.1017/jfm.2026.11594",
-    "abstract": "Prediction of bypass transition from wall measurements in a zero-pressure-gradient boundary-layer flow over a flat plate with a leading edge is investigated using adjoint-variational optimisation techniques and Hessian analyses. The reference wall data are obtained from separate direct numerical simulations subjected to inflows with increasing levels of complexity. The prediction is achieved by reconstructing an inflow profile that generates wall data matching the reference. Initially, the algorithm is validated through steady inflows constructed from a single vortical mode. Positive streaks are reconstructed accurately, while negative streak predictions worsen with increasing turbulence intensity due to their reduced wall impact. Hessian analysis reveals that, under low turbulence intensi…",
-    "authors": "Dandan Xiao, Jan Oscar Pralits, Xuerui Mao",
-    "published": "2026-06-23",
-    "keywords_matched": [
-      "turbulence"
-    ]
-  },
-  {
-    "journal": "Journal of Fluid Mechanics",
-    "title": "Inertial migration of spherical particle in shear flow of shear-thinning fluids",
-    "doi": "10.1017/jfm.2026.11737",
-    "url": "https://doi.org/10.1017/jfm.2026.11737",
-    "abstract": "We investigate inertial migration of a neutrally buoyant spherical particle suspended in an incompressible, shear-thinning fluid undergoing plane Couette flow between two parallel walls, using the smoothed profile–lattice Boltzmann method. Many biological fluids and polymeric liquids exhibit shear-thinning behaviour which is described by the Carreau constitutive model. To assess the influence of shear thinning, we vary the relaxation time of the fluid, the ratio of infinite-shear viscosity to zero-shear viscosity and the power-law index that controls the degree of shear thinning. The results show that the critical Reynolds number for the onset of lateral migration decreases as shear thinning becomes stronger. Further, for a fixed channel Reynolds number, the equilibrium position of the par…",
-    "authors": "M. Saji, Shubhadeep Mandal",
-    "published": "2026-06-23",
-    "keywords_matched": [
-      "lattice boltzmann method",
-      "lattice boltzmann"
     ]
   }
 ]
