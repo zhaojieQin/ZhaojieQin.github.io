@@ -1,5 +1,17 @@
 [
   {
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "title": "Linking the Abruptness of South Asian Summer Monsoon Onset to Convection Aggregation Using SP‐CAM",
+    "doi": "10.1029/2025jd045658",
+    "url": "https://doi.org/10.1029/2025jd045658",
+    "abstract": "Abstract A key challenge in understanding South Asian summer monsoon (SASM) onset is to identify how convection–circulation coupling redistributes moist static energy (MSE) before the mature cross‐equatorial monsoon circulation is established. This study aims to explain the variability of the onset abruptness of the SASM by investigating its energetics in a 20‐year simulation of the Superparameterized Community Atmospheric Model. By conditioning on local column water vapor (CWV), we show that moisture‐dependent distributions of shallow and deep convection are essential for the emergence of a shallow circulation during the pre‐onset stage (day −25 to day −5). This shallow circulation drives up‐gradient MSE transport from dry to moist regions across a CWV threshold of approximately 35 mm. Su…",
+    "authors": "Ding‐Rong Wu, Yung‐Jen Chen, Yen‐Ting Hwang, Chien‐Ming Wu et al.",
+    "published": "2026-09-12",
+    "keywords_matched": [
+      "ABL"
+    ]
+  },
+  {
     "journal": "Journal of Fluid Mechanics",
     "title": "Interplay between circulatory and non-circulatory effects during interaction of counter-translating lifting bodies",
     "doi": "10.1017/jfm.2026.11983",
@@ -298,7 +310,7 @@
     "title": "Development and testing of ensemble-variational data assimilation capabilities for radar data within JEDI coupled with FV3-LAM model",
     "doi": "10.5194/gmd-19-8213-2026",
     "url": "https://doi.org/10.5194/gmd-19-8213-2026",
-    "abstract": "Abstract. This study presents the first implementation and evaluation of radar reflectivity data assimilation capabilities within the ensemble three-dimensional variational (En3DVar) data assimilation (DA) system of the Joint Effort for Data assimilation Integration (JEDI) framework. Building on our earlier works that assimilated reflectivity in JEDI LETKF and in GSI En3DVar, this study focuses on the JEDI En3DVar algorithm when coupled with the FV3-LAM model using the Thompson microphysics scheme. The radar reflectivity observation operator is refined by modifying the snow and graupel reflectivity formulations to improve consistency with Thompson microphysics. The new operator notably improves reflectivity analyses at the upper levels and reduces root-mean-square innovations for both refl…",
+    "abstract": "This study presents the first implementation and evaluation of radar reflectivity data assimilation capabilities within the ensemble three-dimensional variational (En3DVar) data assimilation (DA) system of the Joint Effort for Data assimilation Integration (JEDI) framework. Building on our earlier works that assimilated reflectivity in JEDI LETKF and in GSI En3DVar, this study focuses on the JEDI En3DVar algorithm when coupled with the FV3-LAM model using the Thompson microphysics scheme. The radar reflectivity observation operator is refined by modifying the snow and graupel reflectivity formulations to improve consistency with Thompson microphysics. The new operator notably improves reflectivity analyses at the upper levels and reduces root-mean-square innovations for both reflectivity a…",
     "authors": "Jun Park, Chengsi Liu, Ming Xue",
     "published": "2026-09-07",
     "keywords_matched": [
@@ -461,7 +473,7 @@
     "title": "GWSWEX v1.0: a dual-solver 1D unsaturated zone model for mass-conservative groundwater recharge and runoff computation in distributed hydrological modelling",
     "doi": "10.5194/gmd-19-8233-2026",
     "url": "https://doi.org/10.5194/gmd-19-8233-2026",
-    "abstract": "Abstract. Faithful numerical representation of the coupled groundwater (GW)–unsaturated-zone (UZ)–surface-water (SW) dynamics at regional scales is constrained by the structural extremes currently available: fully three-dimensional Richards-equation solvers resolve variably saturated flow rigorously but at a per-evaluation cost that forecloses ensemble calibration and multi-decadal projection, whereas conceptual bucket schemes cannot track a moving groundwater head, represent capillary rise, or impose a soil-moisture-dependent evapotranspiration (ET) stress. This study introduces GWSWEX (Groundwater–Surface Water EXchange), a vertically resolved, process-based UZ model designed to sit between an external GW model and an external SW model within an integrated modelling chain. Its principal …",
+    "abstract": "Faithful numerical representation of the coupled groundwater (GW)–unsaturated-zone (UZ)–surface-water (SW) dynamics at regional scales is constrained by the structural extremes currently available: fully three-dimensional Richards-equation solvers resolve variably saturated flow rigorously but at a per-evaluation cost that forecloses ensemble calibration and multi-decadal projection, whereas conceptual bucket schemes cannot track a moving groundwater head, represent capillary rise, or impose a soil-moisture-dependent evapotranspiration (ET) stress. This study introduces GWSWEX (Groundwater–Surface Water EXchange), a vertically resolved, process-based UZ model designed to sit between an external GW model and an external SW model within an integrated modelling chain. Its principal innovation…",
     "authors": "Veethahavya Kootanoor Sheshadrivasan, Jakub Langhammer",
     "published": "2026-09-07",
     "keywords_matched": [
@@ -6148,19 +6160,6 @@
     "published": "2026-06-24",
     "keywords_matched": [
       "ABL"
-    ]
-  },
-  {
-    "journal": "Journal of Geophysical Research: Atmospheres",
-    "title": "Barents‐Kara Sea Ice Variability Drives Stronger Tropospheric Anomalies Over East Asia After 2000 Due To Weakened Stratospheric Polar Vortex",
-    "doi": "10.1029/2025jd046058",
-    "url": "https://doi.org/10.1029/2025jd046058",
-    "abstract": "Abstract This study investigates the midlatitude tropospheric teleconnection associated with February Barents‐Kara Sea (BKS) sea ice during 1979–2019 and finds evidence for its significant shift around the year 2000. Before 2000, BKS sea ice reduction is associated with an enhanced stratospheric wavenumber 1, but the relationship between BKS sea ice reduction and downstream tropospheric circulation is insignificant. After 2000, BKS sea ice reduction shows a weaker relationship with stratospheric wavenumber 1 but is accompanied by a significant strengthening of the East Asian trough in the troposphere. Both observational and modeling evidences suggest that this shift is partly attributable to the weaker background stratospheric polar vortex after 2000 compared to earlier decades. Before 200…",
-    "authors": "Chongyang Zhang, Jiankai Zhang, Amanda C. Maycock, James A. Screen et al.",
-    "published": "2026-06-24",
-    "keywords_matched": [
-      "ABL",
-      "vortex"
     ]
   }
 ]
